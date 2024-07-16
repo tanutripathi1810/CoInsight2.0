@@ -1,4 +1,4 @@
-# Coinsight
+# CoInsight
 
 ### Track crypto in Real Time
 
