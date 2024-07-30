@@ -37,7 +37,7 @@ function MainComponent() {
           <Link to="/dashboard"><Button text={"Dashboard"} onClick={()=>console.log("btn Clicked")}/></Link>
           <RWebShare
             data={{
-              text: "CryptoDashboard made by Avi Vashishta using React JS.",
+              text: "CryptoDashboard made by Tanu Tripathi using React JS.",
               url: "https://crypto-dashboard-jan.netlify.app",
               title: "CryptoTracker.",
             }}
