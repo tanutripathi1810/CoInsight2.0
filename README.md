@@ -6,6 +6,9 @@ Coinsight is a real-time cryptocurrency tracking and insightful market analysis 
 
 ![Alt text](CoInsight.png)
 
+## Most Challenging Problem I Solved Recently
+
+A recent challenge I solved was building a full-stack AI Image Generator using the MERN stack with real-time integration of the Clipdrop API. The main issue was handling slow or unpredictable API responses without freezing the UI. I optimized backend request handling, secured API keys, and added robust error handling while improving frontend performance with memoization and a responsive UI. This significantly increased speed, stability, and user experience, strengthening my skills in building reliable, production-ready applications.
 ## Features
 
 - **Real-Time Cryptocurrency Tracking**: Get the latest updates on cryptocurrency prices and market data.
